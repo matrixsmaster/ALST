@@ -1,0 +1,13 @@
+*.c
+*.cpp
+*.h
+*.hpp
+*.o
+*.lib
+*.exe
+*.obj
+*.ddp
+*.tds
+*.cgl
+*.bak
+*.~*
