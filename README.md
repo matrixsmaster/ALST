@@ -27,6 +27,15 @@ It's safe to say that if you can run vanilla DOOM on something, you can run ALST
 ### Small CPU
 ![small CPU](doc/img/small_cpu.jpg)
 
+### Simple Neural Networks
+![simple neural net](doc/img/neural_net.png)
 
-### Old project location
+### More complex Neural Networks (Hopfield network) with interactive UI
+![Hopfield network](doc/img/hopfield.jpg)
+
+### Another small PU (4-bit Turing Machine)
+![4bit CPU](doc/img/4bit_cpu.jpg)
+
+
+## Old project location
 [old location at SourceForge](https://sourceforge.net/projects/alst)
